@@ -1,6 +1,9 @@
 ### Screenshots
 ![Ds](https://github.com/Shivam98Alouli/dashboard_page/assets/108216549/21acbc66-7bf7-41af-991a-89077445e61b)
 
+### Note
+This repository is still under development and I will continue to add more features to it.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
